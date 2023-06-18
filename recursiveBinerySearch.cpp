@@ -29,4 +29,6 @@ int main ()
     std::cout << binerySearch(arr , 0 , len , 1  ) << '\n' 
               << binerySearch(arr , 0 , len , 55 ) << '\n' 
               << binerySearch(arr , 0 , len , 45  ) ;
-}
+
+    cout << "hello world!\n";
+    }
